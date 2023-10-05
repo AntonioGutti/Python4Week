@@ -20,3 +20,7 @@ secuencias de números, cuestionario sobre Bucles y ejercicios varios sobre esto
 En los ejercicios de Pandas hemos aprendido que primero tienes que importar la librería de Pandas para poder usarla, acto seguido hemos aprendido a seleccionar las primeras filas, las 
 últimas filas, seleccionar columnas, si un objeto está vacio con empty , crear objetos, ver si objetos son nulos , modificar un valor de entrada usando Loc, sumar valores con sum , agregar
 y eliminar filas 
+
+
+Día 3: Prácticas de la biblioteca Prophet V2 con unos ejercicios de Bitcoin y visualización de tablas y gráficos con el mismo
+de Space X Luis Sastre a 4/10/2023
