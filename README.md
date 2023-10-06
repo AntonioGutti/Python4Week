@@ -24,3 +24,5 @@ y eliminar filas
 
 Día 3: Prácticas de la biblioteca Prophet V2 con unos ejercicios de Bitcoin y visualización de tablas y gráficos con el mismo
 de Space X Luis Sastre a 4/10/2023
+
+Día 4: Antonio SpaceX -1 :Prácticas y teoría de importación de librerías, obtener los datos mediante peticiones GET y crear un DF transformandolos a archivos JSON , filtrando ciertos valores y variables y finalmente como exportar el mismo a csv con index y sin index. En Antonio Space X3 estuvimos viendo como se puede analizar datos usando SQL desde Python , subir los datos a la base de datos, hacer queries con SQL y subqueries . Por defecto el indice esta en true pero si lo pones en false se genera la tabla sin enumerar los datos en orden numérico.
